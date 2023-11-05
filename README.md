@@ -7,8 +7,8 @@ Full Stack Developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [antovimalands@gmail.com](mailto:antovimalands@gmail.com)
 * 🚀  I'm currently working on [YouTube](http://www.youtube.com/@avcodes)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on React Native and MERN Stack Projects
+* 🧠  I'm learning NextJS
+* 🤝  I'm open to collaborating on NextJs and MERN Stack Projects
 
 <a href="https://www.github.com/vimalds15" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vimalds15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
